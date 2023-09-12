@@ -42,7 +42,7 @@ I'm excited about data engineering because it's where the magic happens. From co
 
 - 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
-- 🌱 I’m currently learning **Azure Cloud DevOps**
+- 🌱 I’m currently learning **Azure Cloud DevOps & Cloud Solution Architecture**
 
 - 👯 I’m looking to collaborate on **Cloud Computing Projects**
 
