@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
-- 🌱 I’m currently learning **Azure Cloud Devops**
+- 🌱 I’m currently learning **Azure Cloud DevOps**
 
 - 👯 I’m looking to collaborate on **Cloud Computing Projects**
 
