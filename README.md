@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/kyawlin48/kyawlin48/blob/8575195554e6283b450dee4a6cdad7690b0e0017/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
-<h2 align="center">A Passionate Cloud Data Engineer & Data Analyst</h2>
+<h3 align="center">A Passionate Cloud Data Engineer & Data Analyst</h3>
 
 ## 🌩️📊🤓 About Me
 
