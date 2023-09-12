@@ -1,13 +1,14 @@
 ![MasterHead](https://github.com/kyawlin48/kyawlin48/blob/8575195554e6283b450dee4a6cdad7690b0e0017/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
 <h3 align="center">A Passionate Cloud Data Engineer & Data Analyst</h3>
-<img align="right" alt="Coding" width="300" src="https://kratikal.com/blog/wp-content/uploads/2022/12/blue_boy_typing_nothought.gif">
 
 <details>
 <summary>About Me</summary>
 
 Hello there! 👋 I'm a versatile data professional with a passion for both data analysis and cloud data engineering. As a data analyst, I dive deep into datasets to uncover meaningful insights, turning raw numbers into actionable decisions. On the other hand, as a cloud data engineer, I design and build robust data pipelines and architectures that enable efficient data processing and analytics in the cloud. I thrive on the challenge of making data-driven solutions come to life and ensuring they deliver real value. With a blend of analytical thinking and cloud expertise, I'm always excited to tackle new data challenges and contribute to data-driven innovation.
 </details>
+
+<img align="right" alt="Coding" width="300" src="https://kratikal.com/blog/wp-content/uploads/2022/12/blue_boy_typing_nothought.gif">
 
 - 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
