@@ -17,7 +17,6 @@ I'm proud to hold the Microsoft Certified: Data Engineer certification, which si
 
 - **Certification:** Microsoft Certified: Data Engineer
 - **Certification Authority:** Microsoft
-- **Date Achieved:** [Insert Date]
 
 ### Skills and Knowledge 💡
 
