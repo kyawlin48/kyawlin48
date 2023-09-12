@@ -14,7 +14,9 @@ Hello there! 👋 I'm a versatile data professional with a passion for both data
 <a href="https://linkedin.com/in/kyawlin44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyawlin44" height="30" width="40" /></a>
 </p>
 
+
 <img align="right" alt="Coding" width="300" src="https://kratikal.com/blog/wp-content/uploads/2022/12/blue_boy_typing_nothought.gif">
+
 
 - 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
