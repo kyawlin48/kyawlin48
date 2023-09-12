@@ -12,7 +12,7 @@ Hello there! 👋 I'm a versatile data professional with a passion for both data
 
 ## Microsoft Certified: Data Engineer 📊🔧 
 
-<img src="https://github.com/kyawlin48/kyawlin48/blob/b45b18df6a094b3d7506940fac06cdb09a937664/azure-data-engineer-associate.svg" alt="Microsoft Certified: Data Engineer Badge" width="60" height="60"> I'm proud to hold the Microsoft Certified: Data Engineer certification, which signifies my expertise in designing and implementing data solutions using Microsoft Azure. With a passion for data and a knack for turning it into valuable insights, I'm equipped to tackle complex data engineering challenges in the cloud.
+<p align="left"> <img src="https://github.com/kyawlin48/kyawlin48/blob/b45b18df6a094b3d7506940fac06cdb09a937664/azure-data-engineer-associate.svg" alt="Microsoft Certified: Data Engineer Badge" width="60" height="60"> I'm proud to hold the Microsoft Certified: Data Engineer certification, which signifies my expertise in designing and implementing data solutions using Microsoft Azure. With a passion for data and a knack for turning it into valuable insights, I'm equipped to tackle complex data engineering challenges in the cloud. </p>
 
 ### Certification Highlights 🌟
 
