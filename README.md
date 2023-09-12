@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
 <h3 align="center">A Passionate Cloud Data Engineer & Data Analyst</h3>
 <img align="right" alt="Coding" width="200" src="https://kratikal.com/blog/wp-content/uploads/2022/12/blue_boy_typing_nothought.gif">
+
 - 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
 - 🌱 I’m currently learning **Azure Cloud Devops**
