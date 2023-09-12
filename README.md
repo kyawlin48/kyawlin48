@@ -1,37 +1,28 @@
-# Cloud Data Engineer Portfolio
+<h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
+<h3 align="center">A Passionate Cloud Data Engineer & Data Analyst</h3>
 
-[![GitHub Profile](https://your-profile-image-url.com/profile.jpg)](https://github.com/your-username)
-[![LinkedIn](https://your-linkedin-icon-url.com/linkedin.png)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://your-twitter-icon-url.com/twitter.png)](https://twitter.com/your-handle)
+- 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
-👋 Hello, I'm [Your Name](https://github.com/your-username), a passionate Cloud Data Engineer.
+- 🌱 I’m currently learning **Azure Cloud Devops**
 
-> "Data is the new oil." - Clive Humby 🛢️
+- 👯 I’m looking to collaborate on **Cloud Computing Projects**
 
-## Skills
-![AWS](https://your-icon-url.com/aws.png) ![Apache Spark](https://your-icon-url.com/spark.png) ![Python](https://your-icon-url.com/python.png) ![SQL](https://your-icon-url.com/sql.png)
+- 🤝 I’m looking for help with **Commercial Cloud Projects**
 
-## Projects
+- 👨‍💻 All of my projects are available at [https://github.com/kyawlin48](https://github.com/kyawlin48)
 
-### Project 1: Data Pipeline with Apache Airflow
-- Description: Blah blah blah.
-- Technologies Used: ![Apache Airflow](https://your-icon-url.com/airflow.png) ![AWS S3](https://your-icon-url.com/s3.png)
-- [Link to the project](https://github.com/your-username/project1)
+- 📫 How to reach me **projectsdata44@gmail.com**
 
-### Project 2: Real-time Data Streaming with Kafka
-- Description: Blah blah blah.
-- Technologies Used: ![Apache Kafka](https://your-icon-url.com/kafka.png) ![Docker](https://your-icon-url.com/docker.png)
-- [Link to the project](https://github.com/your-username/project2)
+- 📄 Know about my experiences [https://github.com/kyawlin48](https://github.com/kyawlin48)
 
-## Education
+- ⚡ Fun fact **I'm a data engineer in the cloud, so I guess you could say I'm on cloud nine!**
 
-- Bachelor of Science in Computer Science - University Name
-- Master of Science in Data Engineering - University Name
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kyawlin44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyawlin44" height="30" width="40" /></a>
+</p>
 
-## Certifications
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- AWS Certified Data Analytics - [Credential URL](https://www.your-cert-url.com/aws-cert)
-
-## Contact
-
-Feel free to connect with me on LinkedIn or Twitter for collaboration or just to say hi! 😄
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawlin48&show_icons=true&locale=en&layout=compact" alt="kyawlin48" /></p>
