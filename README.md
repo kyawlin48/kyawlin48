@@ -13,12 +13,7 @@ Hello there! 👋 I'm a versatile data professional with a passion for both data
 
 I'm proud to hold the Microsoft Certified: Data Engineer certification, which signifies my expertise in designing and implementing data solutions using Microsoft Azure. With a passion for data and a knack for turning it into valuable insights, I'm equipped to tackle complex data engineering challenges in the cloud.
 
-### Certification Highlights 🌟
-
-- **Certification:** Microsoft Certified: Data Engineer
-- **Certification Authority:** Microsoft
-
-### Skills and Knowledge 💡
+### Certification Highlighted Skills and Knowledge 💡
 
 - Data Warehousing
 - ETL (Extract, Transform, Load) Processes
