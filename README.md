@@ -48,7 +48,7 @@ I'm excited about data engineering because it's where the magic happens. From co
 
 - 🤝 I’m looking for help with **Commercial Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kyawlin48](https://github.com/kyawlin48)
+- 👨‍💻 All of my projects are available at [Github Projects](https://github.com/kyawlin48/Projects)
 
 - 📫 How to reach me **projectsdata44@gmail.com**
 
