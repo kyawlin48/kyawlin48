@@ -48,8 +48,6 @@ I'm excited about data engineering because it's where the magic happens. From co
 
 - 👯 I’m looking to collaborate on **Data Reporting and Data Analytics Projects**
 
-- 🤝 I’m looking for help with **Commercial Data Projects**
-
 - 👨‍💻 All of my projects are available at [Github Projects](https://github.com/kyawlin48/Projects)
 
 - 📫 How to reach me **projectsdata44@gmail.com**
