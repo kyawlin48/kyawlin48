@@ -1,11 +1,11 @@
 ![MasterHead](https://github.com/kyawlin48/kyawlin48/blob/8575195554e6283b450dee4a6cdad7690b0e0017/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
-<h3 align="center">A Passionate Cloud Data Engineer & Data Analyst</h3>
+<h3 align="center">A Passionate Data Analyst & An Aspiring Data Reporter</h3>
 
 ## 🌩️📊🤓 About Me
 
-Hello there! 👋 I'm a versatile data professional with a passion for both data analysis and cloud data engineering. As a data analyst, I dive deep into datasets to uncover meaningful insights, turning raw numbers into actionable decisions. On the other hand, as a cloud data engineer, I design and build robust data pipelines and architectures that enable efficient data processing and analytics in the cloud. I thrive on the challenge of making data-driven solutions come to life and ensuring they deliver real value. With a blend of analytical thinking and cloud expertise, I'm always excited to tackle new data challenges and contribute to data-driven innovation.
+Hello there! 👋 I'm a versatile data professional with a passion for both data analysis and news reporting. As a data analyst, I dive deep into datasets to uncover meaningful insights, turning raw numbers into actionable decisions. I thrive on the challenge of making data-driven solutions come to life and ensuring they deliver real value. With a blend of analytical thinking and expertise in data reporting, I'm always excited to tackle new data challenges and contribute to data-driven innovation in the field of news reporting and journalism.
 
 ## Microsoft Certified: Data Engineer 📊🔧 
 
@@ -42,11 +42,13 @@ I'm excited about data engineering because it's where the magic happens. From co
 
 - 🔭 I’m currently working on [Covid-19 Prediction/Reporting](https://github.com/kyawlin48)
 
-- 🌱 I’m currently learning **Azure Cloud DevOps & Cloud Solution Architecture**
+- 🌱 I’m currently preparing **Microsoft Power BI Data Analyst Associate Exam: PL-300**
 
-- 👯 I’m looking to collaborate on **Cloud Computing Projects**
+- 🚀 I'm also a participant in the **Data Energy Accelerator Program by Shell**, where I'm gaining valuable insights and expertise in data-related energy projects.
 
-- 🤝 I’m looking for help with **Commercial Cloud Projects**
+- 👯 I’m looking to collaborate on **Data Reporting and Data Analytics Projects**
+
+- 🤝 I’m looking for help with **Commercial Data Projects**
 
 - 👨‍💻 All of my projects are available at [Github Projects](https://github.com/kyawlin48/Projects)
 
