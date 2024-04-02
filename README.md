@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/kyawlin48/kyawlin48/blob/8575195554e6283b450dee4a6cdad7690b0e0017/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
-<h3 align="center">A Passionate Data Analyst & An Aspiring Data Reporter</h3>
+<h3 align="center">A Passionate Data Analyst & Power BI Specialist</h3>
 
 ## 🌩️📊🤓 About Me
 
-Hello there! 👋 I'm a versatile data professional with a passion for both data analysis and news reporting. As a data analyst, I dive deep into datasets to uncover meaningful insights, turning raw numbers into actionable decisions. I thrive on the challenge of making data-driven solutions come to life and ensuring they deliver real value. With a blend of analytical thinking and expertise in data reporting, I'm always excited to tackle new data challenges and contribute to data-driven innovation in the field of news reporting and journalism.
+Hello there! 👋 I am a seasoned Data Analyst and Business Intelligence professional with over four years of experience in cybersecurity, retail, logistics and the energy sector. My expertise includes advanced proficiency in Power BI, SQL and advanced Excel. Holding a Microsoft Certified Power BI Data Analyst certification, I am committed to excellence in data analysis.
 
-## Microsoft Certified: Data Engineer 📊🔧 
+## Microsoft Certified: Power BI Data Analyst 📊🔧 
 
 <img align="left" alt="Microsoft Certified: Data Engineer Badge" width="80" height="80" src="https://github.com/kyawlin48/kyawlin48/blob/b45b18df6a094b3d7506940fac06cdb09a937664/azure-data-engineer-associate.svg"> 
 
