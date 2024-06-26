@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/kyawlin48/kyawlin48/blob/8575195554e6283b450dee4a6cdad7690b0e0017/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
+![MasterHead](https://github.com/kyawlin48/kyawlin48/blob/kyawlin48-files/Dark%20Blue%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Kyaw Lin</h1>
 <h3 align="center">A Passionate Data Analyst & Power BI Specialist</h3>
