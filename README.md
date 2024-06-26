@@ -50,6 +50,4 @@ I'm excited about data analytics because it combines my creativity, attention to
 
 - 📫 How to reach me **projectsdata44@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/kyawlin48](https://github.com/kyawlin48)
-
 - ⚡ Fun fact **As a data analyst, I'm like a data detective, uncovering hidden insights and solving mysteries within datasets, making me feel like I'm cracking the code every day!**
